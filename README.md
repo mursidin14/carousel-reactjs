@@ -16,4 +16,4 @@ You may also see any lint errors in the console.
 
 # Link Demo App
 
-link Demo `https://carousel-reactjs.vercel.app/`
+link Demo [https://carousel-reactjs.vercel.app/]
